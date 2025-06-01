@@ -1,54 +1,58 @@
-# 👋 Hey, I'm Malavika Gupta
+<!-- GitHub README for malavika2gupta -->
 
-🎓 B.Tech, Class of 2027 | ML Enthusiast | Full-stack Dev  
-📍 Based in India | Building intelligent systems & smarter web experiences  
-
----
-
-## 🚀 Projects I’m Proud Of
-
-- ✨ [**ScheduLine**](link): AI-based crew & bus route management for Delhi Transport
-- 🧠 [**SeismicSense**](link): ML-based seismic event detector for planetary data  
-- 🎮 [**AirHockey DIP Game**](link): Hand-controlled multiplayer air hockey game using DIP & CV
+<h1 align="center">Hey, I'm Malavika Gupta 👋</h1>
+<p align="center">
+  🧠 Machine Learning | 💻 Full-Stack Dev | 🎮 Vision-Based Game Dev<br/> 
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-**Languages:** Python, TypeScript, C++  
-**Web:** React, Next.js, Node.js, Tailwind CSS  
-**ML & Data:** NumPy, Pandas, Scikit-learn, OpenCV  
-**Tools:** Git, Figma, Firebase, VS Code
+- 🎓 BTech Student, NIT Kurukshetra, Class of 2027  
+- 🤖 Passionate about **Machine Learning**, **Computer Vision**, and building tools that solve real-world problems  
+- 🌐 Skilled in both **Frontend finesse** and **Backend logic**  
+- 🧩 Currently working on: improving real-time hand tracking & building smarter assignment systems  
+- ✍️ I also enjoy storytelling through data & building interactive web tools
+
+---
+
+## 🛠️ My Toolbox
+
+| Languages     | Python · TypeScript · Java |
+|---------------|----------------------------|
+| ML & Data     | Pandas · NumPy · scikit-learn · OpenCV |
+| Web Dev       | React · Next.js · Node.js · Tailwind CSS . MongoDB|
+| Tools & Infra | Git · Google Maps API · VS Code . Postman |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malavika2gupta&theme=react" alt="streak"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=malavika2gupta&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=malavika2gupta&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malavika2gupta&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-- 🔥 1700+ rating on LeetCode (Top 12.5%)
-- 🏅 Kaggle ML Novice Medalist
-- 📢 Speaker @ MLCon ‘25 (Projected. Manifesting.)
+- 🔥 LeetCode Rating: **1700+** (Top 12.5%)  
+- 💻 Completed multiple ML + full-stack projects solo  
+- 📬 Top 10 finalist out of 650+ teams at the NASA Space Apps Challenge 2024, a 36-hour international hackathon. 😄
 
 ---
 
-## 🧩 Fun Bits
+## 🤝 Let's Connect
 
-- 🧠 Obsessed with elegant algorithms & hacky ML hacks  
-- 🎨 Learning generative AI for visuals  
-- 🛸 If I’m not coding, I’m probably in a blackhole of sci-fi + physics
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malavika2gupta)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malavika2gupta@gmail.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Malavika2Gupta)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 ---
 
-## 📬 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/malavika2gupta)
-[![Mail](https://img.shields.io/badge/Gmail-Red?logo=gmail&style=for-the-badge)](mailto:malavika2gupta@gmail.com)
+<p align="center">
+  <i>“The best way to predict the future is to build it.”</i>
+</p>
