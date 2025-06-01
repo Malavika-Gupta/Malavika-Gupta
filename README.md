@@ -22,11 +22,14 @@
 
 ## 🛠️ My Toolbox
 
+<div align="center">
+  
 | Languages     | Python · TypeScript · Java |
 |---------------|----------------------------|
 | ML & Data     | Pandas · NumPy · scikit-learn · OpenCV |
 | Web Dev       | React · Next.js · Node.js · Tailwind CSS . MongoDB|
 | Tools & Infra | Git · Google Maps API · VS Code . Postman |
+</div>
 
 ---
 
