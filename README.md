@@ -4,6 +4,9 @@
 <p align="center">
   🧠 Machine Learning | 💻 Full-Stack Dev | 🎮 Vision-Based Game Dev<br/> 
 </p>
+<p align="center">
+  <img src="img.png" width="500"/>
+</p>
 
 ---
 
