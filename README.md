@@ -14,8 +14,7 @@
 
 - 🎓 BTech Student, NIT Kurukshetra, Class of 2027  
 - 🤖 Passionate about **Machine Learning**, **Computer Vision**, and building tools that solve real-world problems  
-- 🌐 Skilled in both **Frontend finesse** and **Backend logic**  
-- 🧩 Currently working on: improving real-time hand tracking & building smarter assignment systems  
+- 🌐 Skilled in both **Frontend finesse** and **Backend logic**    
 - ✍️ I also enjoy storytelling through data & building interactive web tools
 
 ---
