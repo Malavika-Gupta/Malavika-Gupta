@@ -91,7 +91,7 @@
   <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
 </p>
 
-## 🐍 Watch my contributions snake around!
+## 🐍 Watch my contributions get devoured by a Snake!
 <p align="center">
   <img src="https://raw.githubusercontent.com/Malavika-Gupta/Malavika-Gupta/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
