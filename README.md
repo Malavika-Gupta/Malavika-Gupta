@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=50&lines=%E2%9C%A8+I%27m+Malavika+%E2%80%94+nice+to+meet+you%21+%E2%9C%A8&repeat=false" alt="I'm Malavika" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=50&lines=%E2%9C%A8+I%27m+Malavika+%E2%80%94+Nice+to+meet+you%21+%E2%9C%A8&repeat=false" alt="I'm Malavika" />
 </p>
 
 <!-- Neon Divider -->
@@ -39,3 +39,33 @@
 <p align="center">
   <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
 </p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Malavika-Gupta" target="_blank">
+    <img src="assets/githublogo.png" alt="GitHub" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/malavika-gupta/" target="_blank">
+    <img src="assets/linkedinlogo.png" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:malavika2gupta@gmail.com" target="_blank">
+    <img src="assets/gmailogo.png" alt="Gmail" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/Malavika2Gupta/" target="_blank">
+    <img src="assets/leetcodelogo.jpg" alt="LeetCode" width="50" height="50"/>
+  </a>
+</p>
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,react,nextjs,nodejs,express,mongodb,firebase,html,css,tailwind,git,vscode,pandas,numpy,jupyter,jupyter,jupyter,gcp,tensorflow,pytorch,bash" height="100" alt="Tech Stack Icons" />
+</p>
+
