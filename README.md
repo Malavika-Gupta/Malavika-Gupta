@@ -68,4 +68,34 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,js,ts,react,nextjs,nodejs,express,mongodb,firebase,html,css,tailwind,git,vscode,pandas,numpy,jupyter,jupyter,jupyter,gcp,tensorflow,pytorch,bash" height="100" alt="Tech Stack Icons" />
 </p>
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
+
+## 🏆 Achievements
+
+- 🔥 **LeetCode:** 1700+ rating (Top 12.5%)  
+- 🤖 **Projects:** Developed multiple ML and full-stack applications end-to-end  
+- 🚀 **NASA Space Apps Challenge 2024:** Top 10 finalist out of 650+ global teams in a 36-hour hackathon
+
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Malavika-Gupta&theme=dark&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&sideLabels=00FFFF&dates=00FFFF&stroke=00FFFF" height="180" alt="Streak Stats" style="border-radius:15px;" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Malavika-Gupta&show_icons=true&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=00FFFF&border_radius=15&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
+
+
+
+
+<p align="center">
+  <i>“The best way to predict the future is to build it.”</i>
+</p>
 
