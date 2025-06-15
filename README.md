@@ -91,6 +91,13 @@
   <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
 </p>
 
+## 🐍 Watch my contributions snake around!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Malavika-Gupta/Malavika-Gupta/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+<p align="center">
+  <img src="assets/borderseperator.gif" alt="Neon Section Divider" />
+</p>
 
 
 
