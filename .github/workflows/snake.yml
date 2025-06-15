@@ -21,6 +21,10 @@ jobs:
           github_user_name: Malavika-Gupta
           outputs: |
             ./github-contribution-grid-snake.svg
+          # 🎨 Theme settings for dark mode
+          # `snake_color` and `background_color` are HEX values.
+          color_snake: "#00FFFF"    # neon cyan snake
+          color_dots: "#444444,#333333,#222222,#111111,#000000"  # gradient dark dots
 
       # ✅ Commit & push back to main
       - name: Commit and Push
