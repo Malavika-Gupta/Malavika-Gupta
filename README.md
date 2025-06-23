@@ -19,9 +19,12 @@
 
 <!-- Clean, matching neon tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%A7%A0+Machine+Learning+%7C+%F0%9F%92%BB+Full-Stack+Dev+%7C+%F0%9F%8E%AE+Vision-Based+Game+Dev+%7C+Building+what+I+wish+existed+%F0%9F%8C%9F" alt="Neon Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%A7%A0+Machine+Learning+%7C+%F0%9F%92%BB+Full-Stack+Dev+%7C+%F0%9F%8E%AE+Vision-Based+Game+Dev" alt="Neon Tagline" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=50&lines=Building+what+I+wish+existed+%F0%9F%8C%9F" alt="Neon Semi-Tagline" />
+</p>
 
 <!-- Neon Divider -->
 <p align="center">
